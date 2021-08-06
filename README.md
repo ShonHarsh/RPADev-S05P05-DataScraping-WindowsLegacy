@@ -12,7 +12,7 @@ After making a pull request or downloading the project, open the Main.xaml in Ui
 
 **Course:** UiPath - RPA Developer Foundation
 
-**Section:** 00 Section Name
+**Section:** 00 UI Automation with the Classic Experience
 
 **Practice:** 00 Practice Name
 
