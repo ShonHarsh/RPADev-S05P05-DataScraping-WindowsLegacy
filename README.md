@@ -8,6 +8,18 @@ This project is my solution in **C#** to the **Data Scraping & UI Elements** pra
 
 After making a pull request or downloading the project, open the Main.xaml in UiPath Studio.  The robot can be run with the play button in the ribbon and the result can be seen in output pane.
 
+#### PRACTICE REQUIREMENTS
+
+###### **Extracting data from ACME**
+
+Create a process that automates extracting the data from ACME Work items page. 
+
+1. Open https://acme-test.uipath.com/login using IE and login (note: if you do not have an account, go to https://acme-test.uipath.com/register first and create one).
+   - Click on the Work Items tab.
+   - Use Data scrape wizard to extract the table from all the pages. Ignore the empty columns.
+   - Save the extracted data into a CSV file.
+2. Close browser.
+
 ### Details
 
 **Course:** UiPath - RPA Developer Foundation
