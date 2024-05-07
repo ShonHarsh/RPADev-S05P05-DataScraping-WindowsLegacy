@@ -1,5 +1,5 @@
 ![](https://shonharsh.github.io/curriculum-vitae/images/banner-uipath.png)
-# //Project Pending - I am still updating all of the projects for the RPA Developer Foundation.  In doing so I am updating the existing C# Windows Legacy project while also rewriting them in both C# Windows and VB Windows.  I complete at least one project a day.
+
 # S05P05 Data Scraping & UI Elements
 
 This project is my solution in **Windows Legacy (Deprecated), C#** to the **Data Scraping & UI Elements** practice found in section 05 practice 05 of the UiPath - RPA Developer Foundation course.
@@ -35,7 +35,9 @@ Create a process that automates extracting the data from ACME Work items page.
 ### Sample Output
 
 ```
-
+05/06/2024 19:41:20 => [Debug] Debug started for file: Main
+05/06/2024 19:41:21 => [Info] RPADev-S05P05-DataScraping-WindowsLegacy execution started
+05/06/2024 19:42:23 => [Info] RPADev-S05P05-DataScraping-WindowsLegacy execution ended in: 00:01:01
 ```
 
 ### Architecture Requirements
